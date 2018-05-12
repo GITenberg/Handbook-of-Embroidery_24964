@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26839
     wikipedia: https://en.wikipedia.org/wiki/Maria_Alford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24964#Handbook-of-Embroidery
 gutenberg_bookshelf:
 - Crafts
 - Technology
